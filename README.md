@@ -1,0 +1,1 @@
+# shopify-public-app-template
